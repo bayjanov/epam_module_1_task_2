@@ -1,5 +1,5 @@
-Line 1
-Line 2
+Line 1 - 5. git_1: Update and commit the same 2 lines with the different info in secondFile.txt
+Line 2 - 5. git_1: Update and commit the same 2 lines with the different info in secondFile.txt
 Line 3
 Line 4
 Line 5
