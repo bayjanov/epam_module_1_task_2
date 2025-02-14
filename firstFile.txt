@@ -1,10 +1,17 @@
 Line 1 - 7. git_1: Update and commit firstFile.txt file, modify two lines.
 Line 2 - 7. git_1: Update and commit firstFile.txt file, modify two lines.
-Line 3
+Line 3 - 20. *folder1: git_1:  Change another line in firstFile.txt (not the same as in 18, 19). 
 Line 4 - 8. git_1: Update and commit firstFile.txt file, modify another two lines.
 Line 5 - 8. git_1: Update and commit firstFile.txt file, modify another two lines.
 Line 6
+<<<<<<< Updated upstream
 Line 7 - 18. folder2: git_1: Change two lines in firstFile.txt. commit + push.
 Line 8 - 18. folder2: git_1: Change two lines in firstFile.txt. commit + push.
 Line 9
 Line 10
+=======
+Line 7
+Line 8
+Line 9  - 19. folder1: git_1: Change another two lines in firstFile.txt.
+Line 10 - 19. folder1: git_1: Change another two lines in firstFile.txt.
+>>>>>>> Stashed changes
