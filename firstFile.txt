@@ -4,7 +4,7 @@ Line 3
 Line 4 - 8. git_1: Update and commit firstFile.txt file, modify another two lines.
 Line 5 - 8. git_1: Update and commit firstFile.txt file, modify another two lines.
 Line 6
-Line 7
-Line 8
+Line 7 - 18. folder2: git_1: Change two lines in firstFile.txt. commit + push.
+Line 8 - 18. folder2: git_1: Change two lines in firstFile.txt. commit + push.
 Line 9
 Line 10
